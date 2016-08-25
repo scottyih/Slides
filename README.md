@@ -1,3 +1,3 @@
-### This repository contains an incomplete collection of my slides.
+### This repository is an incomplete collection of my slides.
 
 -- Scott Wen-tau Yih
